@@ -12,3 +12,6 @@ cd ipf
 python3 ipf.py
 
 for kali/debian/ubuntu/arch linux
+
+![Image](https://github.com/user-attachments/assets/f6af61db-6b12-4f30-b27e-39385974796e)
+
